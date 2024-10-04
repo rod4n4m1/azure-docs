@@ -13,6 +13,12 @@ ms.author: dnb
 
 There are many, many sources for site reliability engineering (SRE) information on the web.
 
+## SRE Manifesto
+
+An open-source SRE Manifesto from SREs to SREs by SREs.
+
+* [The SRE Manifesto](https://www.sre-manifesto.org)
+
 ## Curated link lists
 
 Here are some good curated lists of links for SRE and SRE-related topics:
