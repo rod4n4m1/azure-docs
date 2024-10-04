@@ -40,3 +40,7 @@ After reading the books mentioned above, if you'd like to go deeper into the pra
 If you would like to explore the intersection of security and reliability engineering, this book provides a variety of good observations on the topic:
 
 [_Building Secure and Reliable Systems_](https://www.oreilly.com/library/view/building-secure-and/9781492083115/)
+
+To understand the Site Reliability Engineer persona better and their main success factors and duties for a shining career, this book can help you dive into the SRE mindset:
+
+[_Becoming a Rockstar SRE_](https://packt.link/H0G2R) (An SRE book focused on the engineer persona)
